@@ -1,6 +1,3 @@
-#RO:vezi ca nu o sa mearga daca nu ii pui "pip install pyautogui" in terminal,+tkinter
-#ENG:you need to run the command "pip install pyautogui" for this script to work
-#that and tkinter too....
 import pyautogui
 import tkinter as tk
 from tkinter.filedialog import *
